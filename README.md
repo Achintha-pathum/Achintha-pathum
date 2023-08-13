@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋 I'm Achintah Pathum
 
-<!--
-**Achintha-pathum/Achintha-pathum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate individual from Sri Lanka  who's deeply interested in Cyber Security and Web Development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Working on Fiverr 
+- 💻 Cyber Security Enthusiast
+- 🌐 Aspiring Web Developer
+- 🕵️ Always hunting for vulnerabilities
+- ☕ Turning caffeine into code
+
+## What I Do
+
+I spend my days exploring the realm of Cyber Security, constantly learning and enhancing my skills to keep the digital world safe. At night, I dive into the world of Web Development, crafting and coding to build amazing online experiences.
+
+## Connect with Me
+
+- 📫 Feel free to reach out: achinthaworking@gmail.com
+
+Let's collaborate and create secure and stunning digital solutions together!
